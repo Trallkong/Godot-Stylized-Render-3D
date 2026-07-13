@@ -1,8 +1,8 @@
 [gd_resource type="ArrayMesh" format=4 uid="uid://h81dis3t2wxy"]
 
-[ext_resource type="Shader" uid="uid://bn5mg0000ii8a" path="res://outline.gdshader" id="1_0jt4u"]
-[ext_resource type="Shader" uid="uid://cgnkf2q77183c" path="res://stylized_rendering.gdshader" id="1_1wv2g"]
-[ext_resource type="Shader" uid="uid://bc6krd2r217gw" path="res://rim_light.gdshader" id="1_2edr8"]
+[ext_resource type="Shader" uid="uid://bn5mg0000ii8a" path="res://shaders/outline.gdshader" id="1_0jt4u"]
+[ext_resource type="Shader" uid="uid://cgnkf2q77183c" path="res://shaders/stylized_rendering.gdshader" id="1_1wv2g"]
+[ext_resource type="Shader" uid="uid://bc6krd2r217gw" path="res://shaders/rim_light.gdshader" id="1_2edr8"]
 [ext_resource type="Texture2D" uid="uid://70cbdvibhgld" path="res://models/Lina_Hair_With_Mat_Hair Base Color.png" id="1_f0r44"]
 [ext_resource type="Texture2D" uid="uid://px6hoo15uf8s" path="res://models/Lina_Hair_With_Mat_EyePupil Base Color.png" id="2_1wv2g"]
 [ext_resource type="Texture2D" uid="uid://b5tck4wib5kmr" path="res://models/Lina_Hair_With_Mat_EyeIris Base Color.png" id="3_0jt4u"]

@@ -1,6 +1,6 @@
 [gd_scene format=3 uid="uid://dh7lyu500dsip"]
 
-[ext_resource type="SphereMesh" uid="uid://ce54ljju7vu8i" path="res://cartoon_ball_mesh.tres" id="1_37kl0"]
+[ext_resource type="SphereMesh" uid="uid://ce54ljju7vu8i" path="res://models/cartoon_ball_mesh.tres" id="1_37kl0"]
 [ext_resource type="Script" uid="uid://c75xw0r5udjjd" path="res://camera_controller.gd" id="4_ppyta"]
 
 [sub_resource type="ProceduralSkyMaterial" id="ProceduralSkyMaterial_6uqi0"]

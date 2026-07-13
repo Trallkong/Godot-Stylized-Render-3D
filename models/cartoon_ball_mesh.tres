@@ -1,8 +1,8 @@
 [gd_resource type="SphereMesh" format=3 uid="uid://ce54ljju7vu8i"]
 
-[ext_resource type="Shader" uid="uid://bc6krd2r217gw" path="res://rim_light.gdshader" id="1_j2mae"]
-[ext_resource type="Shader" uid="uid://bn5mg0000ii8a" path="res://outline.gdshader" id="2_yqyay"]
-[ext_resource type="Shader" uid="uid://cgnkf2q77183c" path="res://stylized_rendering.gdshader" id="3_8t2e6"]
+[ext_resource type="Shader" uid="uid://bc6krd2r217gw" path="res://shaders/rim_light.gdshader" id="1_j2mae"]
+[ext_resource type="Shader" uid="uid://bn5mg0000ii8a" path="res://shaders/outline.gdshader" id="2_yqyay"]
+[ext_resource type="Shader" uid="uid://cgnkf2q77183c" path="res://shaders/stylized_rendering.gdshader" id="3_8t2e6"]
 
 [sub_resource type="ShaderMaterial" id="ShaderMaterial_h1643"]
 render_priority = 0
@@ -20,8 +20,8 @@ shader_parameter/outline_width = 0.03
 render_priority = 0
 next_pass = SubResource("ShaderMaterial_byav3")
 shader = ExtResource("3_8t2e6")
+shader_parameter/albedo_color = Color(1, 1, 1, 1)
 shader_parameter/shadow_color = Color(0.25, 0.2, 0.3, 1)
-shader_parameter/light_color = Color(1, 1, 1, 1)
 shader_parameter/shadow_threshold = 0.5
 
 [resource]
