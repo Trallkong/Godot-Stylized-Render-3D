@@ -7,6 +7,9 @@ var _rotate_y = 0.0
 
 func _ready() -> void:
 	Input.mouse_mode = Input.MOUSE_MODE_CAPTURED
+	
+	_rotate_x = rotation.x
+	_rotate_y = rotation.y
 
 func _physics_process(_delta: float) -> void:
 	rotation.x = _rotate_x

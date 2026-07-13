@@ -19,6 +19,10 @@ config/icon="res://icon.svg"
 window/stretch/mode="canvas_items"
 window/stretch/aspect="expand"
 
+[editor]
+
+movie_writer/movie_file="D:/Projects/GodotProjects/stylized_rendering/input.avi"
+
 [input]
 
 move_forward={

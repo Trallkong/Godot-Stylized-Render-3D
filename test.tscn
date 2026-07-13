@@ -81,5 +81,5 @@ transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, -0.4128418, 0)
 shape = SubResource("BoxShape3D_giw0r")
 
 [node name="Camera3D" type="Camera3D" parent="." unique_id=915110475]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.1726267, 2.1147661)
+transform = Transform3D(0.6961383, -0.114427015, 0.7087296, -1.4901161e-08, 0.98721576, 0.15938948, -0.7179076, -0.110957205, 0.68723875, 0, 1.1726267, 2.1147661)
 script = ExtResource("4_ppyta")

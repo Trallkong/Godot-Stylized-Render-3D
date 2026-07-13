@@ -24,3 +24,4 @@ test.tscn 物品测试
 ![Feet](./images/feet.png)
 ![Hand](./images/hand.png)
 ![Back](./images/back.png)
+![Ball](./images/ball.gif)
