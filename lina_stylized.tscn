@@ -1,0 +1,14 @@
+[gd_scene format=3 uid="uid://dx3le7l3r2lce"]
+
+[ext_resource type="ArrayMesh" uid="uid://h81dis3t2wxy" path="res://models/Lina_Hair_With_Mat_Mesh.tres" id="1_rjau8"]
+
+[node name="Lina_Hair_With_Mat" type="Node3D" unique_id=1391112366]
+
+[node name="Mesh" type="MeshInstance3D" parent="." unique_id=26144747]
+mesh = ExtResource("1_rjau8")
+
+[node name="AreaLight3D" type="AreaLight3D" parent="." unique_id=1570732874]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 9.523982)
+light_energy = 16.0
+area_range = 56.379
+area_size = Vector2(10, 10)
