@@ -13,13 +13,14 @@ rim_light.gdshader 边缘光
 ---
 测试场景：
 
-	lina_stylized.tscn 人物测试
-	
-	test.tscn 物品测试
+lina_stylized.tscn 人物测试
+
+test.tscn 物品测试
+
 ---
 截图：
 
-	![Face](./images/face.png)
-	![Feet](./images/feet.png)
-	![Hand](./images/hand.png)
-	![Back](./images/back.png)
+![Face](./images/face.png)
+![Feet](./images/feet.png)
+![Hand](./images/hand.png)
+![Back](./images/back.png)
